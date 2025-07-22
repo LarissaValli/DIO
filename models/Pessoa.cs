@@ -12,7 +12,7 @@ namespace DIO.models
 
         public void Apresentar()
         {
-            console.WriteLine($"Olá, meu nome é {Nome}, e tenho {idade} anos;")
+            Console.WriteLine($"Olá, meu nome é {Nome}, e tenho {Idade} anos;");
         }
     }
 }

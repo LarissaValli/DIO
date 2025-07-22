@@ -1,0 +1,14 @@
+C:\Users\lads_\Documents\Estudos\DIO\bin\Debug\net9.0\DIO.exe
+C:\Users\lads_\Documents\Estudos\DIO\bin\Debug\net9.0\DIO.deps.json
+C:\Users\lads_\Documents\Estudos\DIO\bin\Debug\net9.0\DIO.runtimeconfig.json
+C:\Users\lads_\Documents\Estudos\DIO\bin\Debug\net9.0\DIO.dll
+C:\Users\lads_\Documents\Estudos\DIO\bin\Debug\net9.0\DIO.pdb
+C:\Users\lads_\Documents\Estudos\DIO\obj\Debug\net9.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lads_\Documents\Estudos\DIO\obj\Debug\net9.0\DIO.AssemblyInfoInputs.cache
+C:\Users\lads_\Documents\Estudos\DIO\obj\Debug\net9.0\DIO.AssemblyInfo.cs
+C:\Users\lads_\Documents\Estudos\DIO\obj\Debug\net9.0\DIO.csproj.CoreCompileInputs.cache
+C:\Users\lads_\Documents\Estudos\DIO\obj\Debug\net9.0\DIO.dll
+C:\Users\lads_\Documents\Estudos\DIO\obj\Debug\net9.0\refint\DIO.dll
+C:\Users\lads_\Documents\Estudos\DIO\obj\Debug\net9.0\DIO.pdb
+C:\Users\lads_\Documents\Estudos\DIO\obj\Debug\net9.0\DIO.genruntimeconfig.cache
+C:\Users\lads_\Documents\Estudos\DIO\obj\Debug\net9.0\ref\DIO.dll

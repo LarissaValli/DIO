@@ -1,4 +1,17 @@
 ﻿using DIO.models;
+
+DateTime dataAtual = DateTime.Now.AddDays(5);
+Console.WriteLine(dataAtual.ToString("dd/MM/yyyy"));
+
+
+
+
+
+
+
+
+
+
 Pessoa pessoa1 = new Pessoa();
 
 pessoa1.Nome = "Larissa";

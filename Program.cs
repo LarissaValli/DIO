@@ -1,14 +1,18 @@
 ﻿using DIO.models;
 
+
+
+int a = 10;
+int b = 20;
+
+int c = a + b;
+
+Console.WriteLine(c);
+
+
+
 DateTime dataAtual = DateTime.Now.AddDays(5);
 Console.WriteLine(dataAtual.ToString("dd/MM/yyyy"));
-
-
-
-
-
-
-
 
 
 

@@ -1,8 +1,15 @@
 ﻿using DIO.models;
 
 
+//Cast - Casting (Converter a string para inteiro, ou seja, converter um tipo para outro tipo. Todos os tipos podem ser convertidos!)
+int a = Convert.ToInt32("5");
+//int a = int.Parse("5c");
+//Convert - Classe
+//ToInt = é uma método
+Console.WriteLine(a);
 
-int a = 10;
+
+//int a = 10;
 int b = 20;
 
 int c = a + b;
@@ -15,10 +22,8 @@ c += 5;
 Console.WriteLine(c);
 
 
-
 DateTime dataAtual = DateTime.Now.AddDays(5);
 Console.WriteLine(dataAtual.ToString("dd/MM/yyyy"));
-
 
 
 Pessoa pessoa1 = new Pessoa();

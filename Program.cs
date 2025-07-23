@@ -1,25 +1,85 @@
 ﻿using DIO.models;
 
+//OPERADORES CONDICIONAIS
 
-//Cast - Casting (Converter a string para inteiro, ou seja, converter um tipo para outro tipo. Todos os tipos podem ser convertidos!)
-int a = Convert.ToInt32("5");
-//int a = int.Parse("5c");
-//Convert - Classe
-//ToInt = é uma método
+int quantidadeEmEstoque = 10;
+
+int quantidadeCompra = 4;
+
+if (quantidadeEmEstoque >= quantidadeCompra)
+{
+    Console.WriteLine("Venda realizada.");
+}
+else
+{
+    Console.WriteLine("Desculpe. Não temos a quantidade desejada de estoque.");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //OPERADORES DE ATRIBUIÇÃO
+
+    //Colocar os operadores em parenteses para que possa dar ordem de execução primeiro no cálculo.
+    double w = 4 / (2 + 2);
+
+Console.WriteLine(w);
+
+
+//Casting implicito
+int l = 5;
+double a = l;
+
 Console.WriteLine(a);
 
 
-//int a = 10;
-int b = 20;
+int inteiro = 5;
+string s = inteiro.ToString();
 
-int c = a + b;
+Console.WriteLine(s);
+
+
+//Cast - Casting (Converter a string para inteiro, ou seja, converter um tipo para outro tipo. Todos os tipos podem ser convertidos!)
+//int a = Convert.ToInt32("5");
+//int a = int.Parse("5c");
+//Convert - Classe
+//ToInt = é uma método
+//Console.WriteLine(a);
+
+
+//int a = 10;
+//int b = 20;
+
+//int c = a + b;
 
 //c = c + 5; // 30 + 5
 //c -= 5; // c = c - 5;
 // c *= 5;
-c += 5;
+//c += 5;
 
-Console.WriteLine(c);
+//Console.WriteLine(c);
 
 
 DateTime dataAtual = DateTime.Now.AddDays(5);
